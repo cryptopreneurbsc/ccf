@@ -37,7 +37,7 @@ export const mainnetTokens = {
     2,
     'IDRT',
     'Rupiah Token',
-    'https://cryptopreneur.finance/',
+    'https://rupiahtoken.com/',
   ),
   free: new Token(
     MAINNET,
@@ -45,7 +45,7 @@ export const mainnetTokens = {
     8,
     'FREE',
     'FREEDOM REWARD',
-    'https://cryptopreneur.finance/',
+    'http://freedomcommunity.network/',
   ),
   hwf: new Token(
     MAINNET,
@@ -69,7 +69,7 @@ export const mainnetTokens = {
     18,
     'LGOLD',
     'Lyfe Gold',
-    'https://cryptopreneur.finance/',
+    'https://lyfe.gold/',
   ),
   rc: new Token(
     MAINNET,
@@ -77,7 +77,7 @@ export const mainnetTokens = {
     8,
     'RC',
     'REDCREX',
-    'https://cryptopreneur.finance/',
+    'https://redcrex.com/',
   ),
   banana: new Token(
     MAINNET,
@@ -85,7 +85,7 @@ export const mainnetTokens = {
     18,
     'BANANA',
     'ApeSwapFinance Banana',
-    'https://cryptopreneur.finance/',
+    'https://apeswap.finance/',
   ),
   bsw: new Token(
     MAINNET,
@@ -93,7 +93,7 @@ export const mainnetTokens = {
     18,
     'BSW',
     'Biswap',
-    'https://cryptopreneur.finance/',
+    'https://biswap.org/',
   ),
   vitsco: new Token(
     MAINNET,
@@ -117,7 +117,7 @@ export const mainnetTokens = {
     18,
     'BIDR',
     'BIDR BEP20',
-    'https://cryptopreneur.finance/',
+    'https://tokocrypto.com/',
   ),crf: new Token(
     MAINNET,
     '0x4b2a05988ac3f5930EfA07DB3C779B5d26cDec3e',
