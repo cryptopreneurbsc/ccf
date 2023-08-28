@@ -100,6 +100,28 @@ const farms: SerializedFarmConfig[] = [
   }
   ,
   {
+    pid: 14,
+    lpSymbol: 'HWC-CCF LP',
+    lpAddresses: {
+      97: '',
+      56: '0xfeb8A95FC6C42925F6006335ca72d2Fe57F7B5EE',
+    },
+    token: serializedTokens.hwc,
+    quoteToken: serializedTokens.cake,
+  }
+  ,
+  {
+    pid: 18,
+    lpSymbol: 'HWF-BUSD LP',
+    lpAddresses: {
+      97: '',
+      56: '0x99EBEb517f8DE6Bb8E9cEa215461963814963284',
+    },
+    token: serializedTokens.hwf,
+    quoteToken: serializedTokens.busd,
+  }
+  ,
+  {
     pid: 7,
     lpSymbol: 'CREVO-BUSD LP',
     lpAddresses: {
@@ -164,17 +186,7 @@ const farms: SerializedFarmConfig[] = [
     },
     token: serializedTokens.matic,
     quoteToken: serializedTokens.busd,
-  }
-  ,
-  {
-    pid: 14,
-    lpSymbol: 'HWC-CCF LP',
-    lpAddresses: {
-      97: '',
-      56: '0xfeb8A95FC6C42925F6006335ca72d2Fe57F7B5EE',
-    },
-    token: serializedTokens.hwc,
-    quoteToken: serializedTokens.cake,
+
   }
   ,
   {
@@ -209,17 +221,7 @@ const farms: SerializedFarmConfig[] = [
     token: serializedTokens.banana,
     quoteToken: serializedTokens.busd,
   }
-  ,
-  {
-    pid: 18,
-    lpSymbol: 'HWF-BUSD LP',
-    lpAddresses: {
-      97: '',
-      56: '0x99EBEb517f8DE6Bb8E9cEa215461963814963284',
-    },
-    token: serializedTokens.hwf,
-    quoteToken: serializedTokens.busd,
-  }
+  
   ,
   {
     pid: 19,
