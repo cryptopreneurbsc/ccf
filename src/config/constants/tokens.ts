@@ -159,6 +159,14 @@ export const mainnetTokens = {
     'LYFE',
     'https://lyfe.land/',
   ),
+  knight: new Token(
+    MAINNET,
+    '0xD23811058Eb6e7967D9a00dc3886E75610c4AbBa',
+    18,
+    'KNIGHT',
+    'KnightSwap',
+    'https://www.knightswap.financial/',
+  ),
   shbar: new Token(
     MAINNET,
     '0xf3bebB4f2D348e44cC4547Cba2F96C214fE5A25A',
