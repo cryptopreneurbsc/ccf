@@ -201,7 +201,7 @@ export const mainnetTokens = {
     18,
     'BUSD',
     'Binance USD',
-    'https://www.paxos.com/busd/',
+    'https://www.binance.com/',
   ),
   dai: new Token(
     MAINNET,
