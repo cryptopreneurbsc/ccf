@@ -43,6 +43,17 @@ const farms: SerializedFarmConfig[] = [
   }
   ,
   {
+    pid: 4,
+    lpSymbol: 'CAKE-BUSD LP',
+    lpAddresses: {
+      97: '',
+      56: '0xcc8E898Afebf2692587A28FDB933394a231327D7',
+    },
+    token: serializedTokens.pancake,
+    quoteToken: serializedTokens.busd,
+  }
+  ,
+  {
     pid: 3,
     lpSymbol: 'CRF-BUSD LP',
     lpAddresses: {
@@ -53,16 +64,7 @@ const farms: SerializedFarmConfig[] = [
     quoteToken: serializedTokens.busd,
   }
   ,
-  {
-    pid: 4,
-    lpSymbol: 'CAKE-BUSD LP',
-    lpAddresses: {
-      97: '',
-      56: '0xcc8E898Afebf2692587A28FDB933394a231327D7',
-    },
-    token: serializedTokens.pancake,
-    quoteToken: serializedTokens.busd,
-  },
+ 
   
   {
     pid: 5,
