@@ -182,7 +182,21 @@ const pools: SerializedPoolConfig[] = [
     sortOrder: 1,
     isFinished: false,
   }
-  
+  ,
+  {
+    sousId: 12,
+    stakingToken: serializedTokens.free,
+    earningToken: serializedTokens.idrt,
+    contractAddress: {
+      97: '0xd3af5fe61dbaf8f73149bfcfa9fb653ff096029a',
+      56: '0xB9dF9C83a68aaC97718CAEa7E1dF7C5D3Cee032C',
+    },
+    poolCategory: PoolCategory.CORE,
+    harvest: true,
+    tokenPerBlock: '1.73611111111',
+    sortOrder: 1,
+    isFinished: false,
+  }
 ]
 
 export default pools
