@@ -118,29 +118,48 @@ export const mainnetTokens = {
     'BIDR',
     'BIDR BEP20',
     'https://tokocrypto.com/',
-  ),crf: new Token(
+  ),
+  crf: new Token(
     MAINNET,
     '0x4b2a05988ac3f5930EfA07DB3C779B5d26cDec3e',
     18,
     'CRF',
     'Cryptopreneur Fund',
     'https://cryptopreneur.finance/',
-  ),cpump: new Token(
+  ),
+  cpump: new Token(
     MAINNET,
     '0x5c741F6CBa99738a371bc76033d73402Cd686902',
     18,
     'CPump',
     'Cryptopump',
     'https://cryptopreneur.finance/',
-  ),tongkonan: new Token(
-      MAINNET,
-      '0x13546B7bCD148293377Ce0B08b64163e12d66867',
-      8,
-      'TKN',
-      'Tongkonan',
-      'https://tongkonan.org/',
-  )
-  ,shbar: new Token(
+  ),
+  tkn: new Token(
+    MAINNET,
+    '0x13546B7bCD148293377Ce0B08b64163e12d66867',
+    8,
+    'TKN',
+    'Tongkonan',
+    'https://tongkonan.org/',
+  ),
+  lsilver: new Token(
+    MAINNET,
+    '0x5DE0133fBc15998df81443FA9199eD64AD8505c5',
+    18,
+    'LSILVER',
+    'Lyfe Silver',
+    'https://silver.lyfe.gold/',
+  ),
+  lyfe: new Token(
+    MAINNET,
+    '0x8D235B68EfF3D6a227AE3617999f7645ecf13285',
+    18,
+    'LYFE',
+    'LYFE',
+    'https://lyfe.land/',
+  ),
+  shbar: new Token(
     MAINNET,
     '0xf3bebB4f2D348e44cC4547Cba2F96C214fE5A25A',
     18,

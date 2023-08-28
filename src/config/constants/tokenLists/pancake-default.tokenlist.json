@@ -210,6 +210,22 @@
       "logoURI": "https://pancakeswap.finance/images/tokens/0xc9849e6fdb743d08faee3e34dd2d1bc69ea11a51.png"
     },
     {
+      "name": "Lyfe Silver",
+      "symbol": "LSILVER",
+      "address": "0x5DE0133fBc15998df81443FA9199eD64AD8505c5",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://app.nusa.finance/assets/libs/cryptocurrency-icons/32/color/lsilver.png"
+    },
+    {
+      "name": "Lyfe",
+      "symbol": "LYFE",
+      "address": "0x8D235B68EfF3D6a227AE3617999f7645ecf13285",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23091.png"
+    },
+    {
       "name": "TokoCrypto",
       "symbol": "TKO",
       "address": "0x9f589e3eabe42ebC94A44727b3f3531C0c877809",
