@@ -156,7 +156,7 @@ export const mainnetTokens = {
     18,
     'CAKE',
     'PancakeSwap Token',
-    'https://cryptopreneur.finance',
+    'https://pancakeswap.finance/',
   ),
   
   tlos: new Token(MAINNET, '0xb6C53431608E626AC81a9776ac3e999c5556717c', 18, 'TLOS', 'Telos', 'https://www.telos.net/'),
