@@ -125,16 +125,22 @@ export const mainnetTokens = {
     'CRF',
     'Cryptopreneur Fund',
     'https://cryptopreneur.finance/',
-  )
-  ,cpump: new Token(
+  ),cpump: new Token(
     MAINNET,
     '0x5c741F6CBa99738a371bc76033d73402Cd686902',
     18,
     'CPump',
     'Cryptopump',
     'https://cryptopreneur.finance/',
-  ),
-  shbar: new Token(
+  ),tongkonan: new Token(
+      MAINNET,
+      '0x13546B7bCD148293377Ce0B08b64163e12d66867',
+      8,
+      'TKN',
+      'Tongkonan',
+      'https://tongkonan.org/',
+  )
+  ,shbar: new Token(
     MAINNET,
     '0xf3bebB4f2D348e44cC4547Cba2F96C214fE5A25A',
     18,
