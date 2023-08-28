@@ -43,6 +43,17 @@ const farms: SerializedFarmConfig[] = [
   }
   ,
   {
+    pid: 8,
+    lpSymbol: 'BIDR-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0xAe43F05AD6059Cad37E7a0aA5Aa39e63334F940B',
+    },
+    token: serializedTokens.bidr,
+    quoteToken: serializedTokens.wbnb,
+  }
+  ,
+  {
     pid: 4,
     lpSymbol: 'CAKE-BUSD LP',
     lpAddresses: {
@@ -98,17 +109,7 @@ const farms: SerializedFarmConfig[] = [
     token: serializedTokens.crevo,
     quoteToken: serializedTokens.busd,
   }
-  ,
-  {
-    pid: 8,
-    lpSymbol: 'BIDR-BNB LP',
-    lpAddresses: {
-      97: '',
-      56: '0xAe43F05AD6059Cad37E7a0aA5Aa39e63334F940B',
-    },
-    token: serializedTokens.bidr,
-    quoteToken: serializedTokens.wbnb,
-  }
+  
   ,
   {
     pid: 9,
