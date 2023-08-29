@@ -147,10 +147,11 @@ const pools: SerializedPoolConfig[] = [
       56: '0x0c941901e0ce661bc9b720075e39baf2976c2655',
     },
     poolCategory: PoolCategory.CORE,
-    harvest: true,
+    harvest: false,
     tokenPerBlock: '0.0017',
     sortOrder: 1,
-    isFinished: false,
+    isFinished: true,
+    enableEmergencyWithdraw: true,
   }
   ,
   {
