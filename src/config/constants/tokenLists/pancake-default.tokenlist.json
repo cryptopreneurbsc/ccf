@@ -226,6 +226,14 @@
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23091.png"
     },
     {
+      "name": "KnightSwap",
+      "symbol": "KNIGHT",
+      "address": "0xD23811058Eb6e7967D9a00dc3886E75610c4AbBa",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://www.knightswap.financial/images/tokens/KNIGHT.png"
+    },
+    {
       "name": "TokoCrypto",
       "symbol": "TKO",
       "address": "0x9f589e3eabe42ebC94A44727b3f3531C0c877809",
