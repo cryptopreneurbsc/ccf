@@ -41,6 +41,39 @@ const farms: SerializedFarmConfig[] = [
   }
   ,
   {
+    pid: 24,
+    lpSymbol: 'CRF-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0xcA66215a9231A99F1bd768F0D8F75f2747A9e041',
+    },
+    token: serializedTokens.crf,
+    quoteToken: serializedTokens.wbnb,  
+  }
+  ,
+  {
+    pid: 3,
+    lpSymbol: 'CRF-BUSD LP',
+    lpAddresses: {
+      97: '',
+      56: '0x8C5cd878Bc279666958D1AE192E8847c5b8DD589',
+    },
+    token: serializedTokens.crf,
+    quoteToken: serializedTokens.busd,
+  }
+  ,
+  {
+    pid: 5,
+    lpSymbol: 'CRF-BIDR LP',
+    lpAddresses: {
+      97: '',
+      56: '0xE8c61a4301858b87fd4Ed194406c5320188720D5',
+    },
+    token: serializedTokens.crf,
+    quoteToken: serializedTokens.bidr,
+  }
+  ,
+  {
     pid: 2,
     lpSymbol: 'BUSD-BNB LP',
     lpAddresses: {
@@ -73,30 +106,6 @@ const farms: SerializedFarmConfig[] = [
     quoteToken: serializedTokens.busd,
   }
   ,
-  {
-    pid: 3,
-    lpSymbol: 'CRF-BUSD LP',
-    lpAddresses: {
-      97: '',
-      56: '0x8C5cd878Bc279666958D1AE192E8847c5b8DD589',
-    },
-    token: serializedTokens.crf,
-    quoteToken: serializedTokens.busd,
-  }
-  ,
- 
-  
-  {
-    pid: 5,
-    lpSymbol: 'CRF-BIDR LP',
-    lpAddresses: {
-      97: '',
-      56: '0xE8c61a4301858b87fd4Ed194406c5320188720D5',
-    },
-    token: serializedTokens.crf,
-    quoteToken: serializedTokens.bidr,
-  },
-  
   {
     pid: 6,
     lpSymbol: 'HWC-BUSD LP',
