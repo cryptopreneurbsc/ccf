@@ -28,8 +28,17 @@ const farms: SerializedFarmConfig[] = [
     token: serializedTokens.cake,
     quoteToken: serializedTokens.wbnb,
   }
- 
-
+  ,
+  {
+    pid: 23,
+    lpSymbol: 'CCF-BUSD LP',
+    lpAddresses: {
+      97: '',
+      56: '0xa1F2908830580b0c2Aa840e3eC78E374847E3f03',
+    },
+    token: serializedTokens.cake,
+    quoteToken: serializedTokens.busd,  
+  }
   ,
   {
     pid: 2,
