@@ -149,7 +149,6 @@ const farms: SerializedFarmConfig[] = [
     token: serializedTokens.crevo,
     quoteToken: serializedTokens.busd,
   }
-  
   ,
   {
     pid: 9,
@@ -204,7 +203,6 @@ const farms: SerializedFarmConfig[] = [
     },
     token: serializedTokens.matic,
     quoteToken: serializedTokens.busd,
-
   }
   ,
   {
@@ -239,7 +237,28 @@ const farms: SerializedFarmConfig[] = [
     token: serializedTokens.banana,
     quoteToken: serializedTokens.busd,
   }
-  
+  ,
+  {
+    pid: 21,
+    lpSymbol: 'FREE-BUSD LP',
+    lpAddresses: {
+      97: '',
+      56: '0x4930bCE6D90C4afC5f952b47d2A7a91c807afA4B',
+    },
+    token: serializedTokens.free,
+    quoteToken: serializedTokens.busd,
+  }
+  ,
+  {
+    pid: 25,
+    lpSymbol: 'KNIGHT-BUSD LP',
+    lpAddresses: {
+      97: '',
+      56: '0xcDe80BCcc2Ec4ab8E9F0507627B109C488D62e53',
+    },
+    token: serializedTokens.knight,
+    quoteToken: serializedTokens.busd,
+  }  
   ,
   {
     pid: 19,
@@ -264,17 +283,6 @@ const farms: SerializedFarmConfig[] = [
   }
   ,
   {
-    pid: 21,
-    lpSymbol: 'FREE-BUSD LP',
-    lpAddresses: {
-      97: '',
-      56: '0x4930bCE6D90C4afC5f952b47d2A7a91c807afA4B',
-    },
-    token: serializedTokens.free,
-    quoteToken: serializedTokens.busd,
-  }
-  ,
-  {
     pid: 22,
     lpSymbol: 'BIDR-IDRT LP',
     lpAddresses: {
@@ -284,6 +292,7 @@ const farms: SerializedFarmConfig[] = [
     token: serializedTokens.bidr,
     quoteToken: serializedTokens.idrt,
   }
+  
 ]
 
 export default farms
