@@ -167,6 +167,14 @@ export const mainnetTokens = {
     'KnightSwap',
     'https://www.knightswap.financial/',
   ),
+  fdusd: new Token(
+    MAINNET,
+    '0xc5f0f7b66764F6ec8C8Dff7BA683102295E16409',
+    18,
+    'FDUSD',
+    'First Digital USD',
+    'https://firstdigitallabs.com/',
+  ),
   shbar: new Token(
     MAINNET,
     '0xf3bebB4f2D348e44cC4547Cba2F96C214fE5A25A',
