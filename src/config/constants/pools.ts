@@ -50,6 +50,21 @@ const pools: SerializedPoolConfig[] = [
   }
   ,
   {
+    sousId: 15,
+    stakingToken: serializedTokens.rc,
+    earningToken: serializedTokens.lgold,
+    contractAddress: {
+      97: '0xd3af5fe61dbaf8f73149bfcfa9fb653ff096029a',
+      56: '0xccdC7349CE5362dfb5C3BAcf3D76c5eCEDe75394',
+    },
+    poolCategory: PoolCategory.CORE,
+    harvest: true,
+    tokenPerBlock: '0.000001736111111111',
+    sortOrder: 1,
+    isFinished: false,
+  }
+  ,
+  {
     sousId: 1,
     stakingToken: serializedTokens.crf,
     earningToken: serializedTokens.pancake,
