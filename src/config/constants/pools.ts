@@ -183,10 +183,11 @@ const pools: SerializedPoolConfig[] = [
       56: '0x1cb4f7c55c8d112689ff980ceeb97cda0d4c017a',
     },
     poolCategory: PoolCategory.CORE,
-    harvest: true,
+    harvest: false,
     tokenPerBlock: '0.0034',
     sortOrder: 1,
-    isFinished: false,
+    isFinished: true,
+    enableEmergencyWithdraw: true,
   }
   ,
   {
