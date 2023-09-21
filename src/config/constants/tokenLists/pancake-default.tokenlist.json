@@ -234,6 +234,14 @@
       "logoURI": "https://www.knightswap.financial/images/tokens/KNIGHT.png"
     },
     {
+      "name": "RFIDR",
+      "symbol": "RR",
+      "address": "0xcdcF17f451b9110C27c93E9313D9A1553aD37644",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://www.cryptopreneur.finance/images/tokens/0xcdcF17f451b9110C27c93E9313D9A1553aD37644.png"
+    },
+    {
       "name": "TokoCrypto",
       "symbol": "TKO",
       "address": "0x9f589e3eabe42ebC94A44727b3f3531C0c877809",

@@ -29,7 +29,7 @@ export const mainnetTokens = {
     18,
     'CCF',
     'Cryptopreneur Community Fund',
-    'https://cryptopreneur.finance/',
+    'https://cryptopreneur.community/',
   ),
   idrt: new Token(
     MAINNET,
@@ -53,7 +53,7 @@ export const mainnetTokens = {
     8,
     'HWF',
     'HEALTHY WEALTHY FUND',
-    'https://cryptopreneur.finance/',
+    'https://hwclife.org/',
   ),
   hwc: new Token(
     MAINNET,
@@ -61,7 +61,7 @@ export const mainnetTokens = {
     18,
     'HWC',
     'Healthy Wealth Community',
-    'https://cryptopreneur.finance/',
+    'https://hwclife.org/',
   ),
   lgold: new Token(
     MAINNET,
@@ -125,7 +125,7 @@ export const mainnetTokens = {
     18,
     'CRF',
     'Cryptopreneur Fund',
-    'https://cryptopreneur.finance/',
+    'https://cryptopreneur.community/',
   ),
   cpump: new Token(
     MAINNET,
@@ -174,6 +174,14 @@ export const mainnetTokens = {
     'FDUSD',
     'First Digital USD',
     'https://firstdigitallabs.com/',
+  ),
+  rfidr: new Token(
+    MAINNET,
+    '0xcdcF17f451b9110C27c93E9313D9A1553aD37644',
+    18,
+    'RR',
+    'RFIDR',
+    'https://rfidr.net/',
   ),
   shbar: new Token(
     MAINNET,
