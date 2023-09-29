@@ -50,6 +50,21 @@ const pools: SerializedPoolConfig[] = [
   }
   ,
   {
+    sousId: 11,
+    stakingToken: serializedTokens.crf,
+    earningToken: serializedTokens.pancake,
+    contractAddress: {
+      97: '0xd3af5fe61dbaf8f73149bfcfa9fb653ff096029a',
+      56: '0x351d468aded97d847159b5d01239bead43b38005',
+    },
+    poolCategory: PoolCategory.CORE,
+    harvest: true,
+    tokenPerBlock: '0.000018',
+    sortOrder: 1,
+    isFinished: false,
+  }
+  ,
+  {
     sousId: 14,
     stakingToken: serializedTokens.crf,
     earningToken: serializedTokens.matic,
@@ -90,6 +105,21 @@ const pools: SerializedPoolConfig[] = [
     poolCategory: PoolCategory.CORE,
     harvest: true,
     tokenPerBlock: '0.000130208333333333',
+    sortOrder: 1,
+    isFinished: false,
+  }
+  ,
+  {
+    sousId: 12,
+    stakingToken: serializedTokens.free,
+    earningToken: serializedTokens.idrt,
+    contractAddress: {
+      97: '0xd3af5fe61dbaf8f73149bfcfa9fb653ff096029a',
+      56: '0xB9dF9C83a68aaC97718CAEa7E1dF7C5D3Cee032C',
+    },
+    poolCategory: PoolCategory.CORE,
+    harvest: true,
+    tokenPerBlock: '1.73611111111',
     sortOrder: 1,
     isFinished: false,
   }
@@ -248,36 +278,6 @@ const pools: SerializedPoolConfig[] = [
     poolCategory: PoolCategory.CORE,
     harvest: true,
     tokenPerBlock: '0.0034',
-    sortOrder: 1,
-    isFinished: false,
-  }
-  ,
-  {
-    sousId: 11,
-    stakingToken: serializedTokens.crf,
-    earningToken: serializedTokens.pancake,
-    contractAddress: {
-      97: '0xd3af5fe61dbaf8f73149bfcfa9fb653ff096029a',
-      56: '0x351d468aded97d847159b5d01239bead43b38005',
-    },
-    poolCategory: PoolCategory.CORE,
-    harvest: true,
-    tokenPerBlock: '0.000018',
-    sortOrder: 1,
-    isFinished: false,
-  }
-  ,
-  {
-    sousId: 12,
-    stakingToken: serializedTokens.free,
-    earningToken: serializedTokens.idrt,
-    contractAddress: {
-      97: '0xd3af5fe61dbaf8f73149bfcfa9fb653ff096029a',
-      56: '0xB9dF9C83a68aaC97718CAEa7E1dF7C5D3Cee032C',
-    },
-    poolCategory: PoolCategory.CORE,
-    harvest: true,
-    tokenPerBlock: '1.73611111111',
     sortOrder: 1,
     isFinished: false,
   }
