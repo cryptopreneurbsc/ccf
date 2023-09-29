@@ -183,6 +183,14 @@ export const mainnetTokens = {
     'RFIDR',
     'https://rfidr.net/',
   ),
+  dsme: new Token(
+    MAINNET,
+    '0x870FF3CE5Ec4adA4B53A044ca9DD5CA85D5B23fD',
+    18,
+    'DSME',
+    'Defisme',
+    'https://defisme.com/',
+  ),
   shbar: new Token(
     MAINNET,
     '0xf3bebB4f2D348e44cC4547Cba2F96C214fE5A25A',

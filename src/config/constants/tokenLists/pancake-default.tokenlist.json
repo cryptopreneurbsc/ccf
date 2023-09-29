@@ -239,7 +239,15 @@
       "address": "0xcdcF17f451b9110C27c93E9313D9A1553aD37644",
       "chainId": 97,
       "decimals": 18,
-      "logoURI": "https://www.cryptopreneur.finance/images/tokens/0xcdcF17f451b9110C27c93E9313D9A1553aD37644.png"
+      "logoURI": "https://cryptoprenurbsc.github.io/blockchain/bep20/assets/0xcdcf17f451b9110c27c93e9313d9a1553ad37644/logo.png"
+    },
+    {
+      "name": "DefiSME",
+      "symbol": "DSME",
+      "address": "0x870FF3CE5Ec4adA4B53A044ca9DD5CA85D5B23fD",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://cryptoprenurbsc.github.io/blockchain/bep20/assets/0x870FF3CE5Ec4adA4B53A044ca9DD5CA85D5B23fD/logo.png"
     },
     {
       "name": "TokoCrypto",
