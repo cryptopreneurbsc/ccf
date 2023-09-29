@@ -74,6 +74,17 @@ const farms: SerializedFarmConfig[] = [
   }
   ,
   {
+    pid: 26,
+    lpSymbol: 'DSME-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0x59484Aa01A60183e09d705e7b6785Ae8DadD506e',
+    },
+    token: serializedTokens.dsme,
+    quoteToken: serializedTokens.wbnb,
+  }
+  ,
+  {
     pid: 2,
     lpSymbol: 'BUSD-BNB LP',
     lpAddresses: {
