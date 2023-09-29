@@ -50,6 +50,21 @@ const pools: SerializedPoolConfig[] = [
   }
   ,
   {
+    sousId: 18,
+    stakingToken: serializedTokens.cake,
+    earningToken: serializedTokens.dsme,
+    contractAddress: {
+      97: '0xd3af5fe61dbaf8f73149bfcfa9fb653ff096029a',
+      56: '0x8753d743Ff1081971F1265E59E9856D855B1fC7f',
+    },
+    poolCategory: PoolCategory.CORE,
+    harvest: true,
+    tokenPerBlock: '0.000138888888888889',
+    sortOrder: 1,
+    isFinished: false,
+  }
+  ,
+  {
     sousId: 11,
     stakingToken: serializedTokens.crf,
     earningToken: serializedTokens.pancake,
@@ -80,16 +95,16 @@ const pools: SerializedPoolConfig[] = [
   }
   ,
   {
-    sousId: 15,
-    stakingToken: serializedTokens.rc,
-    earningToken: serializedTokens.lgold,
+    sousId: 19,
+    stakingToken: serializedTokens.crf,
+    earningToken: serializedTokens.dsme,
     contractAddress: {
       97: '0xd3af5fe61dbaf8f73149bfcfa9fb653ff096029a',
-      56: '0xccdC7349CE5362dfb5C3BAcf3D76c5eCEDe75394',
+      56: '0x3788D5cA39Fb576D94f0DDF816AcbF9Bba1A08b4',
     },
     poolCategory: PoolCategory.CORE,
     harvest: true,
-    tokenPerBlock: '0.000001736111111111',
+    tokenPerBlock: '0.000121527777777778',
     sortOrder: 1,
     isFinished: false,
   }
@@ -120,6 +135,21 @@ const pools: SerializedPoolConfig[] = [
     poolCategory: PoolCategory.CORE,
     harvest: true,
     tokenPerBlock: '1.73611111111',
+    sortOrder: 1,
+    isFinished: false,
+  }
+  ,
+  {
+    sousId: 20,
+    stakingToken: serializedTokens.dsme,
+    earningToken: serializedTokens.idrt,
+    contractAddress: {
+      97: '0xd3af5fe61dbaf8f73149bfcfa9fb653ff096029a',
+      56: '0x89c8740bf3841563b34202f7ED203521e6b5330A',
+    },
+    poolCategory: PoolCategory.CORE,
+    harvest: true,
+    tokenPerBlock: '1.736111111111110000',
     sortOrder: 1,
     isFinished: false,
   }
@@ -278,6 +308,21 @@ const pools: SerializedPoolConfig[] = [
     poolCategory: PoolCategory.CORE,
     harvest: true,
     tokenPerBlock: '0.0034',
+    sortOrder: 1,
+    isFinished: false,
+  }
+  ,
+  {
+    sousId: 15,
+    stakingToken: serializedTokens.rc,
+    earningToken: serializedTokens.lgold,
+    contractAddress: {
+      97: '0xd3af5fe61dbaf8f73149bfcfa9fb653ff096029a',
+      56: '0xccdC7349CE5362dfb5C3BAcf3D76c5eCEDe75394',
+    },
+    poolCategory: PoolCategory.CORE,
+    harvest: true,
+    tokenPerBlock: '0.000001736111111111',
     sortOrder: 1,
     isFinished: false,
   }
