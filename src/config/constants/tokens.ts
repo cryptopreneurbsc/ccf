@@ -191,6 +191,14 @@ export const mainnetTokens = {
     'Defisme',
     'https://defisme.com/',
   ),
+  bst: new Token(
+    MAINNET,
+    '0x34d967E62Fc5e8474D621f639b07c39D92144648',
+    18,
+    'BST',
+    'Bluestake',
+    'https://autostake.app/',
+  ),
   shbar: new Token(
     MAINNET,
     '0xf3bebB4f2D348e44cC4547Cba2F96C214fE5A25A',
