@@ -39,6 +39,22 @@ export const mainnetTokens = {
     'Rupiah Token',
     'https://rupiahtoken.com/',
   ),
+  idrx: new Token(
+    MAINNET,
+    '0x649a2DA7B28E0D54c13D5eFf95d3A660652742cC',
+    0,
+    'IDRX',
+    'IDRX Token',
+    'https://idrx.co/',
+  ),
+  iddr: new Token(
+    MAINNET,
+    '0x9a8284C2CEC196478f01eF4446A0222dD4deF00E',
+    18,
+    'IDDR',
+    'ID Digital Rupiah',
+    'https://iddr.io/',
+  ),
   free: new Token(
     MAINNET,
     '0x4Ed010337f974c251D76764896FF2AC990fE0C20',
