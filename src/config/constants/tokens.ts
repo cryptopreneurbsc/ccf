@@ -1474,6 +1474,14 @@ export const mainnetTokens = {
     'TRON Token',
     'https://tron.network/',
   ),
+  trx_v2: new Token(
+    MAINNET,
+    '0xCE7de646e7208a4Ef112cb6ed5038FA6cC6b12e3',
+    6,
+    'TRX',
+    'TRON V2',
+    'https://tron.network/',
+  ),
   win: new Token(
     MAINNET,
     '0xaeF0d72a118ce24feE3cD1d43d383897D05B4e99',

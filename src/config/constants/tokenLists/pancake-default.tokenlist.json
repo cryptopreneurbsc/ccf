@@ -51,6 +51,14 @@
       "logoURI": "https://cryptopreneur.finance/images/tokens/0x85EAC5Ac2F758618dFa09bDbe0cf174e7d574D5B.png"
     },
     {
+      "name": "TRON V2",
+      "symbol": "TRX",
+      "address": "0xCE7de646e7208a4Ef112cb6ed5038FA6cC6b12e3",
+      "chainId": 56,
+      "decimals": 6,
+      "logoURI": "https://cryptopreneur.finance/images/tokens/0xCE7de646e7208a4Ef112cb6ed5038FA6cC6b12e3.png"
+    },
+    {
       "name": "Healthy Wealth Community",
       "symbol": "HWC",
       "address": "0x4D65BC6f4eeFA70e880a530e48079FF5309Eb219",
