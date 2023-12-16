@@ -90,6 +90,22 @@
       "logoURI": "https://cryptopreneur.finance/images/tokens/0x66207E39bb77e6B99aaB56795C7c340C08520d83.png"
     },
     {
+      "name": "IDRX",
+      "symbol": "IDRX",
+      "address": "0x649a2DA7B28E0D54c13D5eFf95d3A660652742cC",
+      "chainId": 56,
+      "decimals": 0,
+      "logoURI": "https://cryptopreneur.finance/images/tokens/0x649a2DA7B28E0D54c13D5eFf95d3A660652742cC.png"
+    },
+    {
+      "name": "ID Digital Rupiah",
+      "symbol": "IDDR",
+      "address": "0x9a8284C2CEC196478f01eF4446A0222dD4deF00E",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://cryptopreneur.finance/images/tokens/0x9a8284C2CEC196478f01eF4446A0222dD4deF00E.png"
+    },
+    {
       "name": "dForce USD",
       "symbol": "USX",
       "address": "0xB5102CeE1528Ce2C760893034A4603663495fD72",
