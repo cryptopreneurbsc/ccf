@@ -107,7 +107,7 @@ const farms: SerializedFarmConfig[] = [
   }
   ,
   {
-    pid: 31,
+    pid: 28,
     lpSymbol: 'USDT-BNB LP',
     lpAddresses: {
       97: '',
