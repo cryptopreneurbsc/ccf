@@ -262,13 +262,13 @@ const farms: SerializedFarmConfig[] = [
   ,
   {
     pid: 18,
-    lpSymbol: 'HWF-BUSD LP',
+    lpSymbol: 'BUSD-HWF LP',
     lpAddresses: {
       97: '',
       56: '0x99EBEb517f8DE6Bb8E9cEa215461963814963284',
     },
-    token: serializedTokens.hwf,
-    quoteToken: serializedTokens.busd,
+    token: serializedTokens.busd,
+    quoteToken: serializedTokens.hwf,
   }
   ,
   {
