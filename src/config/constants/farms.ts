@@ -173,6 +173,17 @@ const farms: SerializedFarmConfig[] = [
   }
   ,
   {
+    pid: 33,
+    lpSymbol: 'BSW-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0x3C5D93F6c300Dcd96C63Dfe9cAAa030B807b6bFA',
+    },
+    token: serializedTokens.bsw,
+    quoteToken: serializedTokens.wbnb,
+  }
+  ,
+  {
     pid: 4,
     lpSymbol: 'CAKE-BUSD LP',
     lpAddresses: {
