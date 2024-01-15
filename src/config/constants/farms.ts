@@ -85,6 +85,17 @@ const farms: SerializedFarmConfig[] = [
   }
   ,
   {
+    pid: 32,
+    lpSymbol: 'CRF-IDRT LP',
+    lpAddresses: {
+      97: '',
+      56: '0x6136dcAca4FD155d3b1ADD61df3BF8615170201b',
+    },
+    token: serializedTokens.crf,
+    quoteToken: serializedTokens.idrt,
+  }
+  ,
+  {
     pid: 5,
     lpSymbol: 'CRF-BIDR LP',
     lpAddresses: {
