@@ -107,6 +107,17 @@ const farms: SerializedFarmConfig[] = [
   }
   ,
   {
+    pid: 31,
+    lpSymbol: 'USDT-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0xC3a3d8aA40E93112dB2023D376aAEb4a78669fe2',
+    },
+    token: serializedTokens.usdt,
+    quoteToken: serializedTokens.wbnb,
+  }
+  ,
+  {
     pid: 8,
     lpSymbol: 'BIDR-BNB LP',
     lpAddresses: {
