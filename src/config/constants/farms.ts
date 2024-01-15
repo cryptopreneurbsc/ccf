@@ -184,6 +184,28 @@ const farms: SerializedFarmConfig[] = [
   }
   ,
   {
+    pid: 34,
+    lpSymbol: 'VITSCO-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0x6295936714609350C2e13a43f57F1386100A08c9',
+    },
+    token: serializedTokens.vitsco,
+    quoteToken: serializedTokens.wbnb,
+  }
+  ,
+  {
+    pid: 35,
+    lpSymbol: 'VITSCO-USDT LP',
+    lpAddresses: {
+      97: '',
+      56: '0x3eF185B7925AD819E6A7cABc99a859386B119384',
+    },
+    token: serializedTokens.vitsco,
+    quoteToken: serializedTokens.usdt,
+  }
+  ,
+  {
     pid: 4,
     lpSymbol: 'CAKE-BUSD LP',
     lpAddresses: {
