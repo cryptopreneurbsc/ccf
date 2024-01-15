@@ -62,10 +62,11 @@
       "name": "Healthy Wealth Community",
       "symbol": "HWC",
       "address": "0x4D65BC6f4eeFA70e880a530e48079FF5309Eb219",
-      "chainId": 56,
+      "chainId": 97,
       "decimals": 18,
       "logoURI": "https://cryptopreneur.finance/images/tokens/0x4D65BC6f4eeFA70e880a530e48079FF5309Eb219.png"
-    },{
+    },
+    {
       "name": "CREVO",
       "symbol": "CREVO",
       "address": "0xE18359D09803Fc2467ebbaDdb34A0A382F48e21c",
@@ -106,10 +107,18 @@
       "logoURI": "https://cryptopreneur.finance/images/tokens/0x9a8284C2CEC196478f01eF4446A0222dD4deF00E.png"
     },
     {
+      "name": "First Digital USD",
+      "symbol": "FDUSD",
+      "address": "0xc5f0f7b66764F6ec8C8Dff7BA683102295E16409",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://cryptopreneur.finance/images/tokens/0xc5f0f7b66764F6ec8C8Dff7BA683102295E16409.png"
+    },
+    {
       "name": "dForce USD",
       "symbol": "USX",
       "address": "0xB5102CeE1528Ce2C760893034A4603663495fD72",
-      "chainId": 56,
+      "chainId": 97,
       "decimals": 18,
       "logoURI": "https://cryptopreneur.finance/images/tokens/0xB5102CeE1528Ce2C760893034A4603663495fD72.png"
     },
@@ -141,7 +150,7 @@
       "name": "HEALTHY WEALTHY FUND",
       "symbol": "HWF",
       "address": "0x70b9581Db801fffDac08930C46358e3264e6607A",
-      "chainId": 56,
+      "chainId": 97,
       "decimals": 8,
       "logoURI": "https://cryptopreneur.finance/images/tokens/0x70b9581Db801fffDac08930C46358e3264e6607A.png"
     },
