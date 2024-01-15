@@ -52,6 +52,17 @@ const farms: SerializedFarmConfig[] = [
   }
   ,
   {
+    pid: 30,
+    lpSymbol: 'CRF-USDT LP',
+    lpAddresses: {
+      97: '',
+      56: '0xe169be8F22966bF52F5cd25c2EB6582BeDf35942',
+    },
+    token: serializedTokens.crf,
+    quoteToken: serializedTokens.usdt,  
+  }
+  ,
+  {
     pid: 3,
     lpSymbol: 'CRF-BUSD LP',
     lpAddresses: {
