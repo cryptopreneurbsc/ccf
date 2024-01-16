@@ -184,6 +184,17 @@ const farms: SerializedFarmConfig[] = [
   }
   ,
   {
+    pid: 38,
+    lpSymbol: 'MATIC-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0xf81eC92666e693cEBaBDD25A139E0CbC30e7d673',
+    },
+    token: serializedTokens.matic,
+    quoteToken: serializedTokens.wbnb,
+  }
+  ,
+  {
     pid: 29,
     lpSymbol: 'CAKE-BNB LP',
     lpAddresses: {
