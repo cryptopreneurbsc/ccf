@@ -239,6 +239,17 @@ const farms: SerializedFarmConfig[] = [
   }
   ,
   {
+    pid: 39,
+    lpSymbol: 'CREVO-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0x1D12c8eA8aDf2ac541CAA326025F67f9C6321365',
+    },
+    token: serializedTokens.crevo,
+    quoteToken: serializedTokens.wbnb,
+  }
+  ,
+  {
     pid: 4,
     lpSymbol: 'CAKE-BUSD LP',
     lpAddresses: {
