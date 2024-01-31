@@ -184,6 +184,17 @@ const farms: SerializedFarmConfig[] = [
   }
   ,
   {
+    pid: 22,
+    lpSymbol: 'BIDR-IDRT LP',
+    lpAddresses: {
+      97: '',
+      56: '0x672dd1AAe933AfEc719F0872c2f317f81EE32cBD',
+    },
+    token: serializedTokens.bidr,
+    quoteToken: serializedTokens.idrt,
+  }
+  ,
+  {
     pid: 38,
     lpSymbol: 'MATIC-BNB LP',
     lpAddresses: {
@@ -456,17 +467,6 @@ const farms: SerializedFarmConfig[] = [
     },
     token: serializedTokens.idrt,
     quoteToken: serializedTokens.busd,
-  }
-  ,
-  {
-    pid: 22,
-    lpSymbol: 'BIDR-IDRT LP',
-    lpAddresses: {
-      97: '',
-      56: '0x672dd1AAe933AfEc719F0872c2f317f81EE32cBD',
-    },
-    token: serializedTokens.bidr,
-    quoteToken: serializedTokens.idrt,
   }
   
 ]
