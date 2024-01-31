@@ -217,6 +217,17 @@ const farms: SerializedFarmConfig[] = [
   }
   ,
   {
+    pid: 41,
+    lpSymbol: 'KNIGHT-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0x7DCFF57C5Ad5f6a907a16Bbc35D92c5DC95158a2',
+    },
+    token: serializedTokens.knight,
+    quoteToken: serializedTokens.wbnb,
+  }
+  ,
+  {
     pid: 34,
     lpSymbol: 'VITSCO-BNB LP',
     lpAddresses: {
@@ -257,17 +268,6 @@ const farms: SerializedFarmConfig[] = [
       56: '0x0b86FDE7aB0c353347a0B619a7f21C68Ae481221',
     },
     token: serializedTokens.free,
-    quoteToken: serializedTokens.wbnb,
-  }
-  ,
-  {
-    pid: 41,
-    lpSymbol: 'KNIGHT-BNB LP',
-    lpAddresses: {
-      97: '',
-      56: '0x7DCFF57C5Ad5f6a907a16Bbc35D92c5DC95158a2',
-    },
-    token: serializedTokens.knight,
     quoteToken: serializedTokens.wbnb,
   }
   ,
