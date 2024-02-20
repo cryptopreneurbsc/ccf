@@ -215,6 +215,14 @@ export const mainnetTokens = {
     'Bluestake',
     'https://autostake.app/',
   ),
+  bpl: new Token(
+    MAINNET,
+    '0xc137068A3f766831fbAb2A8F7320350FB0284820',
+    18,
+    'BPL',
+    'BITPAL',
+    'https://bitpal.vip/',
+  ),
   shbar: new Token(
     MAINNET,
     '0xf3bebB4f2D348e44cC4547Cba2F96C214fE5A25A',
