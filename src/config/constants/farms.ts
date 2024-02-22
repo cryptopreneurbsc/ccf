@@ -272,6 +272,17 @@ const farms: SerializedFarmConfig[] = [
   }
   ,
   {
+    pid: 42,
+    lpSymbol: 'RC-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0x24db455b4Bcd01471c9787F304423684dEdD925F',
+    },
+    token: serializedTokens.rc,
+    quoteToken: serializedTokens.wbnb,
+  }
+  ,
+  {
     pid: 40,
     lpSymbol: 'FREE-BNB LP',
     lpAddresses: {
