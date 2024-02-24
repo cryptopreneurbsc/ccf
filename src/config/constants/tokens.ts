@@ -223,6 +223,14 @@ export const mainnetTokens = {
     'BITPAL',
     'https://bitpal.vip/',
   ),
+  pps: new Token(
+    MAINNET,
+    '0x44778e8a0Abd387514992a71584EFD1F8CcE3574',
+    18,
+    'PPS',
+    'Private Pool Share',
+    'https://dogrowth.club/',
+  ),
   shbar: new Token(
     MAINNET,
     '0xf3bebB4f2D348e44cC4547Cba2F96C214fE5A25A',
