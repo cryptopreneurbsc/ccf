@@ -307,6 +307,14 @@
       "logoURI": "https://cryptoprenurbsc.github.io/blockchain/bep20/assets/0xc137068A3f766831fbAb2A8F7320350FB0284820/logo.png"
     },
     {
+      "name": "BlueStake",
+      "symbol": "BST",
+      "address": "0x34d967E62Fc5e8474D621f639b07c39D92144648",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://cryptoprenurbsc.github.io/blockchain/bep20/assets/0x34d967E62Fc5e8474D621f639b07c39D92144648/logo.png"
+    },
+    {
       "name": "Private Pool Share",
       "symbol": "PPS",
       "address": "0x44778e8a0Abd387514992a71584EFD1F8CcE3574",
