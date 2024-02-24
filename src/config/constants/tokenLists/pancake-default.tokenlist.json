@@ -299,6 +299,14 @@
       "logoURI": "https://cryptoprenurbsc.github.io/blockchain/bep20/assets/0x870FF3CE5Ec4adA4B53A044ca9DD5CA85D5B23fD/logo.png"
     },
     {
+      "name": "BITPAL",
+      "symbol": "BPL",
+      "address": "0xc137068A3f766831fbAb2A8F7320350FB0284820",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://cryptoprenurbsc.github.io/blockchain/bep20/assets/0xc137068A3f766831fbAb2A8F7320350FB0284820/logo.png"
+    },
+    {
       "name": "Private Pool Share",
       "symbol": "PPS",
       "address": "0x44778e8a0Abd387514992a71584EFD1F8CcE3574",
