@@ -205,7 +205,7 @@ export const mainnetTokens = {
     18,
     'DSME',
     'Defisme',
-    'https://defisme.com/',
+    'https://defisme.org/',
   ),
   bst: new Token(
     MAINNET,
