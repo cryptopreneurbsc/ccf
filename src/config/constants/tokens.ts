@@ -229,7 +229,7 @@ export const mainnetTokens = {
     18,
     'PPS',
     'Private Pool Share',
-    'https://dogrowth.club/',
+    'https://bscscan.com/token/0x44778e8a0abd387514992a71584efd1f8cce3574#code/',
   ),
   shbar: new Token(
     MAINNET,
