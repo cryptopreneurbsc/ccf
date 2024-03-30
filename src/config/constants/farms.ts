@@ -206,6 +206,17 @@ const farms: SerializedFarmConfig[] = [
   }
   ,
   {
+    pid: 44,
+    lpSymbol: 'ADA-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0xA7cc13850f6bccA2CBCDAc4844c9B0F9354f6F36',
+    },
+    token: serializedTokens.ada,
+    quoteToken: serializedTokens.wbnb,
+  }
+  ,
+  {
     pid: 29,
     lpSymbol: 'CAKE-BNB LP',
     lpAddresses: {

@@ -323,6 +323,14 @@
       "logoURI": "https://cryptoprenurbsc.github.io/blockchain/bep20/assets/0x44778e8a0Abd387514992a71584EFD1F8CcE3574/logo.png"
     },
     {
+      "name": "Cardano",
+      "symbol": "ADA",
+      "address": "0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://cryptoprenurbsc.github.io/blockchain/bep20/assets/0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47/logo.png"
+    },
+    {
       "name": "TokoCrypto",
       "symbol": "TKO",
       "address": "0x9f589e3eabe42ebC94A44727b3f3531C0c877809",
