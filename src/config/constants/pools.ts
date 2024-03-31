@@ -155,6 +155,21 @@ const pools: SerializedPoolConfig[] = [
   }
   ,
   {
+    sousId: 22,
+    stakingToken: serializedTokens.pps,
+    earningToken: serializedTokens.ada,
+    contractAddress: {
+      97: '0xd3af5fe61dbaf8f73149bfcfa9fb653ff096029a',
+      56: '0xb950eb76947d52a716e4332293a4e1ff014a881b',
+    },
+    poolCategory: PoolCategory.CORE,
+    harvest: true,
+    tokenPerBlock: '0.000069444444444444',
+    sortOrder: 1,
+    isFinished: false,
+  }
+  ,
+  {
     sousId: 20,
     stakingToken: serializedTokens.dsme,
     earningToken: serializedTokens.idrt,
