@@ -231,6 +231,14 @@ export const mainnetTokens = {
     'Private Pool Share',
     'https://bscscan.com/token/0x44778e8a0abd387514992a71584efd1f8cce3574#code/',
   ),
+  bts: new Token(
+    MAINNET,
+    '0xD20C7958d8c1693eef859f9C694d6856fF1d2744',
+    18,
+    'BTS',
+    'BITPRO ALLIANCES',
+    'https://bscscan.com/token/0xD20C7958d8c1693eef859f9C694d6856fF1d2744#code/',
+  ),
   shbar: new Token(
     MAINNET,
     '0xf3bebB4f2D348e44cC4547Cba2F96C214fE5A25A',

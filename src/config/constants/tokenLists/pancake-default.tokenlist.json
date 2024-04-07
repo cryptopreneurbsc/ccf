@@ -262,7 +262,7 @@
       "name": "Lyfe Silver",
       "symbol": "LSILVER",
       "address": "0x5DE0133fBc15998df81443FA9199eD64AD8505c5",
-      "chainId": 56,
+      "chainId": 97,
       "decimals": 18,
       "logoURI": "https://app.nusa.finance/assets/libs/cryptocurrency-icons/32/color/lsilver.png"
     },
@@ -270,7 +270,7 @@
       "name": "Lyfe",
       "symbol": "LYFE",
       "address": "0x8D235B68EfF3D6a227AE3617999f7645ecf13285",
-      "chainId": 56,
+      "chainId": 97,
       "decimals": 18,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23091.png"
     },
@@ -321,6 +321,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://cryptoprenurbsc.github.io/blockchain/bep20/assets/0x44778e8a0Abd387514992a71584EFD1F8CcE3574/logo.png"
+    },
+    {
+      "name": "BITPRO ALLIANCES",
+      "symbol": "BTS",
+      "address": "0xD20C7958d8c1693eef859f9C694d6856fF1d2744",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://cryptoprenurbsc.github.io/blockchain/bep20/assets/0xD20C7958d8c1693eef859f9C694d6856fF1d2744/logo.png"
     },
     {
       "name": "Cardano",
