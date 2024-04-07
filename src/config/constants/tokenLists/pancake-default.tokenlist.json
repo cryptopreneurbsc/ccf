@@ -331,6 +331,14 @@
       "logoURI": "https://cryptoprenurbsc.github.io/blockchain/bep20/assets/0xD20C7958d8c1693eef859f9C694d6856fF1d2744/logo.png"
     },
     {
+      "name": "Solana",
+      "symbol": "SOL",
+      "address": "0x570A5D26f7765Ecb712C0924E4De545B89fD43dF",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://cryptoprenurbsc.github.io/blockchain/bep20/assets/0x570A5D26f7765Ecb712C0924E4De545B89fD43dF/logo.png"
+    },
+    {
       "name": "Cardano",
       "symbol": "ADA",
       "address": "0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47",

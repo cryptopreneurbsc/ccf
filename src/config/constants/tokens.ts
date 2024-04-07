@@ -239,6 +239,14 @@ export const mainnetTokens = {
     'BITPRO ALLIANCES',
     'https://bscscan.com/token/0xD20C7958d8c1693eef859f9C694d6856fF1d2744#code/',
   ),
+  sol: new Token(
+    MAINNET,
+    '0x570A5D26f7765Ecb712C0924E4De545B89fD43dF',
+    18,
+    'SOL',
+    'SOLANA',
+    'https://solana.com/',
+  ),
   shbar: new Token(
     MAINNET,
     '0xf3bebB4f2D348e44cC4547Cba2F96C214fE5A25A',
