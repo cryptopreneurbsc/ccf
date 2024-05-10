@@ -19,6 +19,28 @@ const farms: SerializedFarmConfig[] = [
   } 
   ,
   {
+    pid: 28,
+    lpSymbol: 'USDT-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0xC3a3d8aA40E93112dB2023D376aAEb4a78669fe2',
+    },
+    token: serializedTokens.usdt,
+    quoteToken: serializedTokens.wbnb,
+  }
+  ,
+  {
+    pid: 36,
+    lpSymbol: 'FDUSD-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0xCD99C9455fb237C047a4384D7eD1BCfD9459e669',
+    },
+    token: serializedTokens.fdusd,
+    quoteToken: serializedTokens.wbnb,
+  }
+  ,
+  {
     pid: 1,
     lpSymbol: 'CCF-BNB LP',
     lpAddresses: {
@@ -42,35 +64,24 @@ const farms: SerializedFarmConfig[] = [
   ,
   {
     pid: 31,
-    lpSymbol: 'USDT-CCF LP',
+    lpSymbol: 'CCF-USDT LP',
     lpAddresses: {
       97: '',
       56: '0x2df2b3E66d64067d1db3A34Ef273a90b0a52b968',
     },
-    token: serializedTokens.usdt,
-    quoteToken: serializedTokens.cake,  
+    token: serializedTokens.cake,
+    quoteToken: serializedTokens.usdt,  
   }
   ,
   {
     pid: 37,
-    lpSymbol: 'FDUSD-CCF LP',
+    lpSymbol: 'CCF-FDUSD LP',
     lpAddresses: {
       97: '',
       56: '0x834575fAF6eEa30EbaD9bB12f66B80E110A6a7D8',
     },
-    token: serializedTokens.fdusd,
-    quoteToken: serializedTokens.cake,  
-  }
-  ,
-  {
-    pid: 36,
-    lpSymbol: 'FDUSD-BNB LP',
-    lpAddresses: {
-      97: '',
-      56: '0xCD99C9455fb237C047a4384D7eD1BCfD9459e669',
-    },
-    token: serializedTokens.fdusd,
-    quoteToken: serializedTokens.wbnb,
+    token: serializedTokens.cake,
+    quoteToken: serializedTokens.fdusd,  
   }
   ,
   {
@@ -158,17 +169,6 @@ const farms: SerializedFarmConfig[] = [
       56: '0xf4BbEf4DF031D21a6296905A9522C1204d217A4E',
     },
     token: serializedTokens.busd,
-    quoteToken: serializedTokens.wbnb,
-  }
-  ,
-  {
-    pid: 28,
-    lpSymbol: 'USDT-BNB LP',
-    lpAddresses: {
-      97: '',
-      56: '0xC3a3d8aA40E93112dB2023D376aAEb4a78669fe2',
-    },
-    token: serializedTokens.usdt,
     quoteToken: serializedTokens.wbnb,
   }
   ,
