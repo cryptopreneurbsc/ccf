@@ -152,46 +152,79 @@ const farms: SerializedFarmConfig[] = [
   ,
   {
     pid: 27,
-    lpSymbol: 'USDT-DSME LP',
+    lpSymbol: 'DSME-USDT LP',
     lpAddresses: {
       97: '',
       56: '0x1Ac5829241A7a4284d8109B5996724B61b0ddFe7',
     },
-    token: serializedTokens.usdt,
-    quoteToken: serializedTokens.dsme,
+    token: serializedTokens.dsme,
+    quoteToken: serializedTokens.usdt,
   }
   ,
   {
-    pid: 2,
-    lpSymbol: 'BUSD-BNB LP',
+    pid: 34,
+    lpSymbol: 'VITSCO-BNB LP',
     lpAddresses: {
       97: '',
-      56: '0xf4BbEf4DF031D21a6296905A9522C1204d217A4E',
+      56: '0x6295936714609350C2e13a43f57F1386100A08c9',
     },
-    token: serializedTokens.busd,
+    token: serializedTokens.vitsco,
     quoteToken: serializedTokens.wbnb,
   }
   ,
   {
-    pid: 8,
-    lpSymbol: 'BIDR-BNB LP',
+    pid: 35,
+    lpSymbol: 'VITSCO-USDT LP',
     lpAddresses: {
       97: '',
-      56: '0xAe43F05AD6059Cad37E7a0aA5Aa39e63334F940B',
+      56: '0x3eF185B7925AD819E6A7cABc99a859386B119384',
     },
-    token: serializedTokens.bidr,
+    token: serializedTokens.vitsco,
+    quoteToken: serializedTokens.usdt,
+  }
+  ,
+  {
+    pid: 39,
+    lpSymbol: 'CREVO-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0x1D12c8eA8aDf2ac541CAA326025F67f9C6321365',
+    },
+    token: serializedTokens.crevo,
     quoteToken: serializedTokens.wbnb,
   }
   ,
   {
-    pid: 22,
-    lpSymbol: 'BIDR-IDRT LP',
+    pid: 40,
+    lpSymbol: 'FREE-BNB LP',
     lpAddresses: {
       97: '',
-      56: '0x672dd1AAe933AfEc719F0872c2f317f81EE32cBD',
+      56: '0x0b86FDE7aB0c353347a0B619a7f21C68Ae481221',
     },
-    token: serializedTokens.bidr,
-    quoteToken: serializedTokens.idrt,
+    token: serializedTokens.free,
+    quoteToken: serializedTokens.wbnb,
+  }
+  ,
+  {
+    pid: 42,
+    lpSymbol: 'RC-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0x24db455b4Bcd01471c9787F304423684dEdD925F',
+    },
+    token: serializedTokens.rc,
+    quoteToken: serializedTokens.wbnb,
+  }
+  ,
+  {
+    pid: 43,
+    lpSymbol: 'PPS-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0x6D34Dac1afEAdbD1c6540E89b998b524Ec47e03C',
+    },
+    token: serializedTokens.pps,
+    quoteToken: serializedTokens.wbnb,
   }
   ,
   {
@@ -250,69 +283,36 @@ const farms: SerializedFarmConfig[] = [
   }
   ,
   {
-    pid: 34,
-    lpSymbol: 'VITSCO-BNB LP',
+    pid: 2,
+    lpSymbol: 'BUSD-BNB LP',
     lpAddresses: {
       97: '',
-      56: '0x6295936714609350C2e13a43f57F1386100A08c9',
+      56: '0xf4BbEf4DF031D21a6296905A9522C1204d217A4E',
     },
-    token: serializedTokens.vitsco,
+    token: serializedTokens.busd,
     quoteToken: serializedTokens.wbnb,
   }
   ,
   {
-    pid: 35,
-    lpSymbol: 'VITSCO-USDT LP',
+    pid: 8,
+    lpSymbol: 'BIDR-BNB LP',
     lpAddresses: {
       97: '',
-      56: '0x3eF185B7925AD819E6A7cABc99a859386B119384',
+      56: '0xAe43F05AD6059Cad37E7a0aA5Aa39e63334F940B',
     },
-    token: serializedTokens.vitsco,
-    quoteToken: serializedTokens.usdt,
-  }
-  ,
-  {
-    pid: 39,
-    lpSymbol: 'CREVO-BNB LP',
-    lpAddresses: {
-      97: '',
-      56: '0x1D12c8eA8aDf2ac541CAA326025F67f9C6321365',
-    },
-    token: serializedTokens.crevo,
+    token: serializedTokens.bidr,
     quoteToken: serializedTokens.wbnb,
   }
   ,
   {
-    pid: 42,
-    lpSymbol: 'RC-BNB LP',
+    pid: 22,
+    lpSymbol: 'BIDR-IDRT LP',
     lpAddresses: {
       97: '',
-      56: '0x24db455b4Bcd01471c9787F304423684dEdD925F',
+      56: '0x672dd1AAe933AfEc719F0872c2f317f81EE32cBD',
     },
-    token: serializedTokens.rc,
-    quoteToken: serializedTokens.wbnb,
-  }
-  ,
-  {
-    pid: 40,
-    lpSymbol: 'FREE-BNB LP',
-    lpAddresses: {
-      97: '',
-      56: '0x0b86FDE7aB0c353347a0B619a7f21C68Ae481221',
-    },
-    token: serializedTokens.free,
-    quoteToken: serializedTokens.wbnb,
-  }
-  ,
-  {
-    pid: 43,
-    lpSymbol: 'PPS-BNB LP',
-    lpAddresses: {
-      97: '',
-      56: '0x6D34Dac1afEAdbD1c6540E89b998b524Ec47e03C',
-    },
-    token: serializedTokens.pps,
-    quoteToken: serializedTokens.wbnb,
+    token: serializedTokens.bidr,
+    quoteToken: serializedTokens.idrt,
   }
   ,
   {
