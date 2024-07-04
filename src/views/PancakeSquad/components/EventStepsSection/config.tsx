@@ -57,7 +57,7 @@ const stepsConfigBuilder = ({ t, userInfos, eventInfos, userStatus, account, the
         <>
           <Button
             as="a"
-            href="https://cryptopreneur.finance/swap?outputCurrency=0xc97AFd148D0481D527dDB4b61978DaFB9f215D5c"
+            href="https://cryptopreneur.vip/swap?outputCurrency=0xc97AFd148D0481D527dDB4b61978DaFB9f215D5c"
             target="_blank"
             width="100%"
           >

@@ -104,7 +104,7 @@ const Footer = () => {
           {t('No registration needed.')}
         </Text>
 
-        <Link external href="https://cryptopreneur-community-fund.gitbook.io/cryptopreneur.finance/">
+        <Link external href="https://cryptopreneur-community-fund.gitbook.io/cryptopreneur.vip/">
           {t('Learn how to start')}
         </Link>
         {!account && <ConnectWalletButton mt="24px" />}

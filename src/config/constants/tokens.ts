@@ -117,7 +117,7 @@ export const mainnetTokens = {
     8,
     'VITSCO',
     'VITSCO',
-    'https://cryptopreneur.finance/',
+    'https://cryptopreneur.vip/',
   ),
   crevo: new Token(
     MAINNET,
@@ -125,7 +125,7 @@ export const mainnetTokens = {
     18,
     'CREVO',
     'CREVO',
-    'https://cryptopreneur.finance/',
+    'https://cryptopreneur.vip/',
   ),
   bidr: new Token(
     MAINNET,
@@ -149,7 +149,7 @@ export const mainnetTokens = {
     18,
     'CPump',
     'Cryptopump',
-    'https://cryptopreneur.finance/',
+    'https://cryptopreneur.vip/',
   ),
   tkn: new Token(
     MAINNET,
@@ -466,7 +466,7 @@ export const mainnetTokens = {
     18,
     'CCFRT',
     'CCFRT',
-    'https://cryptopreneur.finance/',
+    'https://cryptopreneur.vip/',
   ),
   pha: new Token(
     MAINNET,
@@ -2088,7 +2088,7 @@ export const testnetTokens = {
     18,
     'CCF',
     'Cryptopreneur Community Token',
-    'https://cryptopreneur.finance/',
+    'https://cryptopreneur.vip/',
   ),
   busd: new Token(
     TESTNET,
@@ -2104,7 +2104,7 @@ export const testnetTokens = {
     18,
     'SYRUP',
     'SyrupBar Token',
-    'https://cryptopreneur.finance/',
+    'https://cryptopreneur.vip/',
   ),
   bake: new Token(
     TESTNET,

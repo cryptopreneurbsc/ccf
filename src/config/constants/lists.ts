@@ -1,5 +1,5 @@
-const PANCCF_EXTENDED = 'https://tokens.cryptopreneur.finance/pancakeswap-extended.json'
-const PANCCF_TOP100 = 'https://tokens.cryptopreneur.finance/pancakeswap-top-100.json'
+const PANCCF_EXTENDED = 'https://tokens.cryptopreneur.vip/pancakeswap-extended.json'
+const PANCCF_TOP100 = 'https://tokens.cryptopreneur.vip/pancakeswap-top-100.json'
 
 export const UNSUPPORTED_LIST_URLS: string[] = []
 

@@ -7,7 +7,7 @@
     "patch": 0
   },
   "tags": {},
-  "logoURI": "https://cryptopreneur.finance/logo.png",
+  "logoURI": "https://cryptopreneur.vip/logo.png",
   "keywords": ["pancake", "default"],
   "tokens": [
     {
@@ -16,7 +16,7 @@
       "address": "0xc97AFd148D0481D527dDB4b61978DaFB9f215D5c",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://cryptopreneur.finance/images/tokens/0xc97AFd148D0481D527dDB4b61978DaFB9f215D5c.png"
+      "logoURI": "https://cryptopreneur.vip/images/tokens/0xc97AFd148D0481D527dDB4b61978DaFB9f215D5c.png"
     },
     {
       "name": "Polygon",
@@ -24,7 +24,7 @@
       "address": "0xCC42724C6683B7E57334c4E856f4c9965ED682bD",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://cryptopreneur.finance/images/tokens/0xCC42724C6683B7E57334c4E856f4c9965ED682bD.png"
+      "logoURI": "https://cryptopreneur.vip/images/tokens/0xCC42724C6683B7E57334c4E856f4c9965ED682bD.png"
     },
     {
       "name": "Cryptopump",
@@ -32,7 +32,7 @@
       "address": "0x5c741F6CBa99738a371bc76033d73402Cd686902",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://cryptopreneur.finance/images/tokens/0x5c741F6CBa99738a371bc76033d73402Cd686902.png"
+      "logoURI": "https://cryptopreneur.vip/images/tokens/0x5c741F6CBa99738a371bc76033d73402Cd686902.png"
     },
     {
       "name": "VITSCO",
@@ -40,7 +40,7 @@
       "address": "0x442d6BC3593931F530965394B19D3C2990D3dBC0",
       "chainId": 56,
       "decimals": 8,
-      "logoURI": "https://cryptopreneur.finance/images/tokens/0x442d6BC3593931F530965394B19D3C2990D3dBC0.png"
+      "logoURI": "https://cryptopreneur.vip/images/tokens/0x442d6BC3593931F530965394B19D3C2990D3dBC0.png"
     },
     {
       "name": "TRON",
@@ -48,7 +48,7 @@
       "address": "0x85EAC5Ac2F758618dFa09bDbe0cf174e7d574D5B",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://cryptopreneur.finance/images/tokens/0x85EAC5Ac2F758618dFa09bDbe0cf174e7d574D5B.png"
+      "logoURI": "https://cryptopreneur.vip/images/tokens/0x85EAC5Ac2F758618dFa09bDbe0cf174e7d574D5B.png"
     },
     {
       "name": "TRON V2",
@@ -56,7 +56,7 @@
       "address": "0xCE7de646e7208a4Ef112cb6ed5038FA6cC6b12e3",
       "chainId": 56,
       "decimals": 6,
-      "logoURI": "https://cryptopreneur.finance/images/tokens/0xCE7de646e7208a4Ef112cb6ed5038FA6cC6b12e3.png"
+      "logoURI": "https://cryptopreneur.vip/images/tokens/0xCE7de646e7208a4Ef112cb6ed5038FA6cC6b12e3.png"
     },
     {
       "name": "Healthy Wealth Community",
@@ -64,7 +64,7 @@
       "address": "0x4D65BC6f4eeFA70e880a530e48079FF5309Eb219",
       "chainId": 97,
       "decimals": 18,
-      "logoURI": "https://cryptopreneur.finance/images/tokens/0x4D65BC6f4eeFA70e880a530e48079FF5309Eb219.png"
+      "logoURI": "https://cryptopreneur.vip/images/tokens/0x4D65BC6f4eeFA70e880a530e48079FF5309Eb219.png"
     },
     {
       "name": "CREVO",
@@ -72,7 +72,7 @@
       "address": "0xE18359D09803Fc2467ebbaDdb34A0A382F48e21c",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://cryptopreneur.finance/images/tokens/0xE18359D09803Fc2467ebbaDdb34A0A382F48e21c.png"
+      "logoURI": "https://cryptopreneur.vip/images/tokens/0xE18359D09803Fc2467ebbaDdb34A0A382F48e21c.png"
     },
     {
       "name": "Lyfe Gold",
@@ -80,7 +80,7 @@
       "address": "0xdE9165BDcde72279A42EF6B49ABEBcbba9d43b1D",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://cryptopreneur.finance/images/tokens/0xdE9165BDcde72279A42EF6B49ABEBcbba9d43b1D.png"
+      "logoURI": "https://cryptopreneur.vip/images/tokens/0xdE9165BDcde72279A42EF6B49ABEBcbba9d43b1D.png"
     },
     {
       "name": "Rupiah Token",
@@ -88,7 +88,7 @@
       "address": "0x66207E39bb77e6B99aaB56795C7c340C08520d83",
       "chainId": 56,
       "decimals": 2,
-      "logoURI": "https://cryptopreneur.finance/images/tokens/0x66207E39bb77e6B99aaB56795C7c340C08520d83.png"
+      "logoURI": "https://cryptopreneur.vip/images/tokens/0x66207E39bb77e6B99aaB56795C7c340C08520d83.png"
     },
     {
       "name": "IDRX",
@@ -96,7 +96,7 @@
       "address": "0x649a2DA7B28E0D54c13D5eFf95d3A660652742cC",
       "chainId": 56,
       "decimals": 0,
-      "logoURI": "https://cryptopreneur.finance/images/tokens/0x649a2DA7B28E0D54c13D5eFf95d3A660652742cC.png"
+      "logoURI": "https://cryptopreneur.vip/images/tokens/0x649a2DA7B28E0D54c13D5eFf95d3A660652742cC.png"
     },
     {
       "name": "ID Digital Rupiah",
@@ -104,7 +104,7 @@
       "address": "0x9a8284C2CEC196478f01eF4446A0222dD4deF00E",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://cryptopreneur.finance/images/tokens/0x9a8284C2CEC196478f01eF4446A0222dD4deF00E.png"
+      "logoURI": "https://cryptopreneur.vip/images/tokens/0x9a8284C2CEC196478f01eF4446A0222dD4deF00E.png"
     },
     {
       "name": "First Digital USD",
@@ -120,7 +120,7 @@
       "address": "0xB5102CeE1528Ce2C760893034A4603663495fD72",
       "chainId": 97,
       "decimals": 18,
-      "logoURI": "https://cryptopreneur.finance/images/tokens/0xB5102CeE1528Ce2C760893034A4603663495fD72.png"
+      "logoURI": "https://cryptopreneur.vip/images/tokens/0xB5102CeE1528Ce2C760893034A4603663495fD72.png"
     },
     {
       "name": "WBNB Token",
@@ -136,7 +136,7 @@
       "address": "0x9A2f5556e9A637e8fBcE886d8e3cf8b316a1D8a2",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://cryptopreneur.finance/images/tokens/0x9A2f5556e9A637e8fBcE886d8e3cf8b316a1D8a2.png"
+      "logoURI": "https://cryptopreneur.vip/images/tokens/0x9A2f5556e9A637e8fBcE886d8e3cf8b316a1D8a2.png"
     },
     {
       "name": "REDCREX",
@@ -144,7 +144,7 @@
       "address": "0x59854AcA8de3B8C980a4ccF06085f46e408d2648",
       "chainId": 56,
       "decimals": 8,
-      "logoURI": "https://cryptopreneur.finance/images/tokens/0x59854AcA8de3B8C980a4ccF06085f46e408d2648.png"
+      "logoURI": "https://cryptopreneur.vip/images/tokens/0x59854AcA8de3B8C980a4ccF06085f46e408d2648.png"
     },
     {
       "name": "HEALTHY WEALTHY FUND",
@@ -152,7 +152,7 @@
       "address": "0x70b9581Db801fffDac08930C46358e3264e6607A",
       "chainId": 97,
       "decimals": 8,
-      "logoURI": "https://cryptopreneur.finance/images/tokens/0x70b9581Db801fffDac08930C46358e3264e6607A.png"
+      "logoURI": "https://cryptopreneur.vip/images/tokens/0x70b9581Db801fffDac08930C46358e3264e6607A.png"
     },
     {
       "name": "ApeSwapFinance Banana",
@@ -160,7 +160,7 @@
       "address": "0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://cryptopreneur.finance/images/tokens/0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95.png"
+      "logoURI": "https://cryptopreneur.vip/images/tokens/0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95.png"
     },
     {
       "name": "FREEDOM REWARD",
@@ -168,7 +168,7 @@
       "address": "0x4Ed010337f974c251D76764896FF2AC990fE0C20",
       "chainId": 56,
       "decimals": 8,
-      "logoURI": "https://cryptopreneur.finance/images/tokens/0x4Ed010337f974c251D76764896FF2AC990fE0C20.png"
+      "logoURI": "https://cryptopreneur.vip/images/tokens/0x4Ed010337f974c251D76764896FF2AC990fE0C20.png"
     },
     {
       "name": "Biswap",
@@ -176,7 +176,7 @@
       "address": "0x965F527D9159dCe6288a2219DB51fc6Eef120dD1",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://cryptopreneur.finance/images/tokens/0x965F527D9159dCe6288a2219DB51fc6Eef120dD1.png"
+      "logoURI": "https://cryptopreneur.vip/images/tokens/0x965F527D9159dCe6288a2219DB51fc6Eef120dD1.png"
     },
     {
       "name": "Cryptopreneur Fund",
@@ -184,7 +184,7 @@
       "address": "0x4b2a05988ac3f5930EfA07DB3C779B5d26cDec3e",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://cryptopreneur.finance/images/tokens/0x4b2a05988ac3f5930EfA07DB3C779B5d26cDec3e.png"
+      "logoURI": "https://cryptopreneur.vip/images/tokens/0x4b2a05988ac3f5930EfA07DB3C779B5d26cDec3e.png"
     },
     {
       "name": "BUSD Token",
@@ -216,7 +216,7 @@
       "address": "0x55d398326f99059fF775485246999027B3197955",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://cryptopreneur.finance/images/tokens/0x55d398326f99059ff775485246999027b3197955.png"
+      "logoURI": "https://cryptopreneur.vip/images/tokens/0x55d398326f99059ff775485246999027b3197955.png"
     },
     {
       "name": "USD Coin",
@@ -224,7 +224,7 @@
       "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://cryptopreneur.finance/images/tokens/0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d.png"
+      "logoURI": "https://cryptopreneur.vip/images/tokens/0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d.png"
     },
     {
       "name": "Dai Stablecoin",
@@ -232,7 +232,7 @@
       "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://cryptopreneur.finance/images/tokens/0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3.png"
+      "logoURI": "https://cryptopreneur.vip/images/tokens/0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3.png"
     },
     {
       "name": "PancakeSwap Token",

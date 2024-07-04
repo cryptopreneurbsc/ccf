@@ -81,7 +81,7 @@ const config: (t: ContextApi['t']) => ConfigMenuItemsType[] = (t) => [
       },
       {
         label: t('Docs'),
-        href: 'https://cryptopreneur-community-fund.gitbook.io/cryptopreneur.finance/',
+        href: 'https://cryptopreneur-community-fund.gitbook.io/cryptopreneur.vip/',
         type: DropdownMenuItemType.EXTERNAL_LINK,
       },
     ],

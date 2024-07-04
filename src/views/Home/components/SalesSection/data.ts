@@ -10,7 +10,7 @@ export const swapSectionData: SalesSectionProps = {
     external: false,
   },
   secondaryButton: {
-    to: 'https://cryptopreneur-community-fund.gitbook.io/cryptopreneur.finance/',
+    to: 'https://cryptopreneur-community-fund.gitbook.io/cryptopreneur.vip/',
     text: 'Learn',
     external: true,
   },
@@ -33,7 +33,7 @@ export const earnSectionData: SalesSectionProps = {
     external: false,
   },
   secondaryButton: {
-    to: 'https://cryptopreneur-community-fund.gitbook.io/cryptopreneur.finance',
+    to: 'https://cryptopreneur-community-fund.gitbook.io/cryptopreneur.vip',
     text: 'Learn',
     external: true,
   },
@@ -56,7 +56,7 @@ export const cakeSectionData: SalesSectionProps = {
     external: false,
   },
   secondaryButton: {
-    to: 'https://cryptopreneur-community-fund.gitbook.io/cryptopreneur.finance',
+    to: 'https://cryptopreneur-community-fund.gitbook.io/cryptopreneur.vip',
     text: 'Learn',
     external: true,
   },

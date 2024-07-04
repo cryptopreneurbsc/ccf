@@ -13,7 +13,7 @@ const Container = styled(Flex)`
     linear-gradient(180deg, #8051d6 0%, #492286 100%);
   ${({ theme }) => theme.mediaQueries.md} {
     padding: 0px;
-    background: linear-gradient(180deg, #8051d6 0%, #492286 100%);
+    background: linear-gradient(180deg, #060506 0%, #434345 100%);
   }
 `
 
@@ -44,8 +44,8 @@ const PhishingWarningBanner: React.FC = () => {
   const { t } = useTranslation()
   const [, hideBanner] = usePhishingBannerManager()
   const { isMobile, isMd } = useMatchBreakpoints()
-  const warningText = t("please make sure you're visiting https://cryptopreneur.finance - check the URL carefully.")
-  const warningTextAsParts = warningText.split(/(https:\/\/cryptopreneur.finance)/g)
+  const warningText = t("please make sure you're visiting https://cryptopreneur.vip - check the URL carefully.")
+  const warningTextAsParts = warningText.split(/(https:\/\/cryptopreneur.vip)/g)
   const warningTextComponent = (
     <>
       <Text as="span" color="warning" small bold textTransform="uppercase">
@@ -57,8 +57,8 @@ const PhishingWarningBanner: React.FC = () => {
           key={i}
           small
           as="span"
-          bold={text === 'https://cryptopreneur.finance'}
-          color={text === 'https://cryptopreneur.finance' ? '#FFFFFF' : '#BDC2C4'}
+          bold={text === 'https://cryptopreneur.vip'}
+          color={text === 'https://cryptopreneur.vip' ? '#FFFFFF' : '#BDC2C4'}
         >
           {text}
         </Text>
@@ -78,8 +78,8 @@ const PhishingWarningBanner: React.FC = () => {
         <>
           <InnerContainer>
             <picture>
-              <source type="image/webp" srcSet="/images/decorations/phishing-warning-bunny.webp" />
-              <source type="image/png" srcSet="/images/decorations/phishing-warning-bunny.png" />
+              {/* <source type="image/webp" srcSet="/images/home/cake/coin@2x.webp" /> */}
+              <source type="image/png" srcSet="/images/home/cake/coin@2x.png" />
               <img src="/images/decorations/phishing-warning-bunny.png" alt="phishing-warning" width="92px" />
             </picture>
             <SpeechBubble>{warningTextComponent}</SpeechBubble>

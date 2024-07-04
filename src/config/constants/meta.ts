@@ -5,7 +5,7 @@ export const DEFAULT_META: PageMeta = {
   title: 'Cryptopreneur Community',
   description:
     'The most popular AMM on BSC by user count! Earn CCF through yield farming or win it in the Lottery, then stake it in CCF Pools to earn more tokens! Initial Farm Offerings (new token launch model pioneered by Cryptopreneur Community), NFTs, and more, on a platform you can trust.',
-  image: 'https://cryptopreneur.finance/images/hero.png',
+  image: 'https://cryptopreneur.vip/images/hero.png',
 }
 
 export const getCustomMeta = (path: string, t: ContextApi['t']): PageMeta => {

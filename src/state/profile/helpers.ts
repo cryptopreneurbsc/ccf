@@ -124,7 +124,7 @@ export const getProfile = async (address: string): Promise<GetProfileResponse> =
           username,
           avatar: `${nftToken.image.thumbnail}`,
         },
-        { domain: 'cryptopreneur.finance', secure: true, expires: 30 },
+        { domain: 'cryptopreneur.vip', secure: true, expires: 30 },
       )
     }
 
