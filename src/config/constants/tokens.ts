@@ -63,7 +63,7 @@ export const mainnetTokens = {
     'FREEDOM REWARD',
     'http://freedomcommunity.network/',
   ),
-  free: new Token(
+  freeV2: new Token(
     MAINNET,
     '0x1E4A459f0fEee8724bee7272e75807Eb98242dad',
     18,
