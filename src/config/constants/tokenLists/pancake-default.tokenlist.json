@@ -347,6 +347,14 @@
       "logoURI": "https://cryptoprenurbsc.github.io/blockchain/bep20/assets/0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47/logo.png"
     },
     {
+      "name": "Freedom Revolution",
+      "symbol": "FREEv2",
+      "address": "0x1E4A459f0fEee8724bee7272e75807Eb98242dad",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://cryptoprenurbsc.github.io/blockchain/bep20/assets/0x1E4A459f0fEee8724bee7272e75807Eb98242dad/logo.png"
+    },
+    {
       "name": "TokoCrypto",
       "symbol": "TKO",
       "address": "0x9f589e3eabe42ebC94A44727b3f3531C0c877809",
